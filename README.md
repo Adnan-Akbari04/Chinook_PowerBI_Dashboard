@@ -24,7 +24,6 @@ chinook-dashboard/
 ├── Chinook_Music_Analytics.pbix      # Complete Power BI dashboard
 ├── Chinook_SqlServer.sql             # SQL script for database setup
 ├── README.md                        # This documentation
-└── screenshots/                     # Dashboard preview images
 ```
 
 ## 🔧 Technical Details
