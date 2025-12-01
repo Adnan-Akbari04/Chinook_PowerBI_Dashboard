@@ -33,9 +33,8 @@ chinook-dashboard/
 - **Measures:** Custom DAX calculations for business metrics
 - **Visuals:** Interactive charts, maps, and KPIs
 - **Design:** Professional color scheme with responsive layout
-  
----
 
+  
 ## 📦 Required Files Download
 
 Before opening the dashboard, you must download the necessary files:
@@ -84,7 +83,7 @@ I'm always interested in new challenges and opportunities in the field of **data
 
 Feel free to reach out for collaboration, project discussions, or opportunities in the data analytics space!
 
----
+
 
 ## ❓ Troubleshooting
 
@@ -95,8 +94,6 @@ For questions or issues with this Power BI project:
 
 Check that you've downloaded all required files and have the necessary software installed before reporting issues.
 
-## 📄 License
-MIT License - see LICENSE file for details
 
 ---
 *Project showcasing Power BI analytics capabilities using the Chinook sample database.*
