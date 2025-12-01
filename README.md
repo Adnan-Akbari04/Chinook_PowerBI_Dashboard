@@ -61,6 +61,7 @@ Before opening the dashboard, you must download the necessary files:
 3. Connect Power BI to your local database instance
 4. Import and transform data as needed
 
+
 ## 💼 Work Opportunities
 
 I'm passionate about data analytics, business intelligence, and transforming raw data into actionable insights. If you:
@@ -93,4 +94,3 @@ For questions or issues with this Power BI project:
 Check that you've downloaded all required files and have the necessary software installed before reporting issues.
 
 
----
