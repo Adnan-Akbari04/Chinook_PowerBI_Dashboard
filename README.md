@@ -33,19 +33,34 @@ chinook-dashboard/
 - **Measures:** Custom DAX calculations for business metrics
 - **Visuals:** Interactive charts, maps, and KPIs
 - **Design:** Professional color scheme with responsive layout
+  
+---
 
-## 🚀 Quick Start
-1. **Download** `Chinook_Music_Analytics.pbix`
-2. **Open** with Power BI Desktop
-3. **Explore** the interactive dashboard
+## 📦 Required Files Download
 
-**Alternative Setup:**
-- Use `Chinook_SqlServer.sql` to create the database in SQL Server
-- Connect Power BI to your data source
+Before opening the dashboard, you must download the necessary files:
 
-## 📁 Files Included
-- `Chinook_Music_Analytics.pbix` - Complete Power BI dashboard (all data embedded)
-- `Chinook_SqlServer.sql` - SQL script for database recreation
+1. **Go to the repository's main page**
+2. **Download the `Chinook_PowerBI_Dashboard.rar` file**
+3. **Extract it into your project folder**
+
+**The extracted folder should contain:**
+- `Chinook_Music_Analytics.pbix` (main Power BI dashboard file)
+- `Chinook_SqlServer.sql` (SQL script to recreate the database)
+
+
+## 🚀 Quick Start Guide
+
+### **Option 1: Use PBIX File (Recommended)**
+1. Extract the RAR file
+2. Open `Chinook_Music_Analytics.pbix` with Power BI Desktop
+3. Start exploring immediately - all data is embedded
+
+### **Option 2: Recreate Database from SQL**
+1. Extract the RAR file
+2. Run `Chinook_SqlServer.sql` in SQL Server Management Studio
+3. Connect Power BI to your local database instance
+4. Import and transform data as needed
 
 ---
 
