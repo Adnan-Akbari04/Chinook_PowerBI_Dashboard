@@ -94,4 +94,3 @@ Check that you've downloaded all required files and have the necessary software 
 
 
 ---
-*Project showcasing Power BI analytics capabilities using the Chinook sample database.*
