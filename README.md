@@ -62,6 +62,16 @@ Before opening the dashboard, you must download the necessary files:
 4. Import and transform data as needed
 
 
+## ❓ Troubleshooting
+
+For questions or issues with this Power BI project:
+1. Ensure you have **Power BI Desktop** installed (latest version recommended)
+2. The `.pbix` file contains all embedded data - no external connections needed
+3. If using the SQL script, ensure you have **SQL Server** or compatible database system
+
+Check that you've downloaded all required files and have the necessary software installed before reporting issues.
+
+
 ## 💼 Work Opportunities
 
 I'm passionate about data analytics, business intelligence, and transforming raw data into actionable insights. If you:
@@ -74,26 +84,12 @@ I'm passionate about data analytics, business intelligence, and transforming raw
 
 I'm always interested in new challenges and opportunities in the field of **data analytics, business intelligence, and data visualization**.
 
-## 📞 Contact
-**Adnan Akbari**  
-📧 adnanakbari@outlook.com  
-🔗 [GitHub](https://github.com/Adnan-Akbari04)  
-👔 [LinkedIn](https://www.linkedin.com/in/adnan-akbari/)
-
-Feel free to reach out for collaboration, project discussions, or opportunities in the data analytics space!
-
-
-
-## ❓ Troubleshooting
-
-For questions or issues with this Power BI project:
-1. Ensure you have **Power BI Desktop** installed (latest version recommended)
-2. The `.pbix` file contains all embedded data - no external connections needed
-3. If using the SQL script, ensure you have **SQL Server** or compatible database system
-
-Check that you've downloaded all required files and have the necessary software installed before reporting issues.
-
 
 ## 🔗 Connect with Me
+**Adnan Akbari**
+- adnanakbari@outlook.com
+- [GitHub](https://github.com/Adnan-Akbari04)
 - [LinkedIn Profile](https://www.linkedin.com/in/adnan-akbari/)
 - Check out my [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7401685615861563393/) about this project.
+  
+Feel free to reach out for collaboration, project discussions, or opportunities in the data analytics space!
