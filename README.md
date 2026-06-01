@@ -94,3 +94,6 @@ For questions or issues with this Power BI project:
 Check that you've downloaded all required files and have the necessary software installed before reporting issues.
 
 
+## 🔗 Connect with Me
+[LinkedIn Profile](https://www.linkedin.com/in/adnan-akbari/)
+Check out my [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7401685615861563393/) about this project.
